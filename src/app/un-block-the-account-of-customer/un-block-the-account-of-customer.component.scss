@@ -1,0 +1,68 @@
+:host {
+  height: 100%;
+  display: flex;
+  align-items: stretch;
+}
+.group {
+  align-items: stretch;
+  position: relative;
+  width: 559px;
+  min-width: 50px;
+  min-height: 50px;
+}
+.text {
+  top: 71.8774433757369px;
+  left: 10px;
+  position: absolute;
+  min-width: min-content;
+  height: max-content;
+}
+.text_1 {
+  top: 155.35122556624262px;
+  left: 10.150490614334462px;
+  position: absolute;
+  min-width: min-content;
+  height: max-content;
+}
+.text_2 {
+  top: 236.1684765746199px;
+  left: 10px;
+  position: absolute;
+  min-width: min-content;
+  height: max-content;
+}
+.h5 {
+  min-width: min-content;
+  height: max-content;
+}
+.input {
+  top: 117.36364191228692px;
+  left: 224.6363691850141px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.input_1 {
+  top: 197.3636419122869px;
+  left: 226.45455100319597px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.button {
+  top: 330.3180266832146px;
+  left: 171.72480026372946px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.input_2 {
+  top: 38.443686006825956px;
+  left: 223.7232392181196px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.row-layout {
+  display: flex;
+}

@@ -1,0 +1,52 @@
+:host {
+  height: 100%;
+  display: flex;
+  align-items: stretch;
+}
+.group {
+  align-items: stretch;
+  position: relative;
+  width: 920px;
+  min-width: 50px;
+  min-height: 50px;
+}
+.text {
+  width: 52px;
+  top: 114.84641638225256px;
+  left: 26px;
+  position: absolute;
+  min-width: min-content;
+  height: max-content;
+}
+.text_1 {
+  top: 179px;
+  left: 296px;
+  color: hsla(var(--igx-grays-600));
+  position: absolute;
+  min-width: min-content;
+  height: max-content;
+}
+.text_2 {
+  top: 44.68600682593857px;
+  left: 2.7474402730375px;
+  position: absolute;
+  min-width: min-content;
+  height: max-content;
+}
+.input {
+  top: 78px;
+  left: 122px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.button {
+  top: 238px;
+  left: 208px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.row-layout {
+  display: flex;
+}

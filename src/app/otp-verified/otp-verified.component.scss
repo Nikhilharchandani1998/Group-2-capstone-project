@@ -1,0 +1,30 @@
+:host {
+  height: 100%;
+  display: flex;
+  align-items: stretch;
+}
+.group {
+  align-items: stretch;
+  position: relative;
+  width: 1030px;
+  min-width: 50px;
+  min-height: 50px;
+}
+.text {
+  top: 90.16666412353518px;
+  left: 19.33334350585944px;
+  position: absolute;
+  min-width: min-content;
+  height: max-content;
+}
+.text_1 {
+  top: 147.66666412353504px;
+  left: 45.692865747098075px;
+  color: hsla(var(--igx-grays-600));
+  position: absolute;
+  min-width: min-content;
+  height: max-content;
+}
+.row-layout {
+  display: flex;
+}

@@ -1,0 +1,17 @@
+<div class="group row-layout">
+  <p class="text">
+    OTP
+  </p>
+  <igx-input-group type="box" *ngFor="let item of travelAppArticlesSource1" class="input">
+    <input type="text" placeholder="OTP" [required]="true" igxInput />
+  </igx-input-group>
+  <button igxButton="raised" igxRipple class="button">
+    Submit
+  </button>
+  <p routerLink="/otp-for-unblocking" class="text_1">
+    Resend OTP
+  </p>
+  <p class="text_2">
+    Enter 6 digit OTP sent to your registered mobile number/ registered e-mail 
+  </p>
+</div>

@@ -1,0 +1,76 @@
+:host {
+  height: 100%;
+  display: flex;
+  align-items: stretch;
+}
+.group {
+  align-items: stretch;
+  top: 228.5366227602389px;
+  left: 516.0409556313991px;
+  position: fixed;
+  width: 345px;
+  height: 352px;
+  min-width: 50px;
+  min-height: 50px;
+  z-index: 1;
+}
+.text {
+  top: 61px;
+  left: 192px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.text_1 {
+  top: 190.203125px;
+  left: 6.625px;
+  width: 92px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.h5 {
+  width: 320px;
+  flex-shrink: 0;
+  text-align: center;
+  height: max-content;
+  min-width: min-content;
+}
+.input {
+  top: 51.146776010558874px;
+  left: 0.9271811006825903px;
+  min-width: min-content;
+  position: absolute;
+  height: max-content;
+}
+.input_1 {
+  top: 106.65625px;
+  left: 1.546875px;
+  min-width: min-content;
+  position: absolute;
+  height: max-content;
+}
+.checkbox {
+  top: 158.265625px;
+  left: 4px;
+  width: max-content;
+  position: absolute;
+  height: max-content;
+}
+.button {
+  top: 251.640625px;
+  left: 2.015625px;
+  min-width: min-content;
+  position: absolute;
+  height: max-content;
+}
+.button_1 {
+  top: 214.78125px;
+  left: 2.609375px;
+  min-width: min-content;
+  position: absolute;
+  height: max-content;
+}
+.row-layout {
+  display: flex;
+}

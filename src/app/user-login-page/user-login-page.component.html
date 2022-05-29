@@ -1,0 +1,29 @@
+<div class="group row-layout">
+  <p class="text">
+    User id
+  </p>
+  <igx-input-group type="box" class="input">
+    <input type="text" placeholder="User Id" [required]="true" igxInput />
+  </igx-input-group>
+  <igx-input-group type="box" class="input_1">
+    <input type="password" placeholder="Password" [required]="true" igxInput />
+  </igx-input-group>
+  <igx-checkbox labelPosition="after" class="checkbox">
+    Remember user id
+  </igx-checkbox>
+  <p routerLink="/forget-login-password" class="text_1">
+    Forget password?
+  </p>
+  <button igxButton="raised" igxRipple routerLink="/new-user-registration-page" class="button">
+    Create account
+  </button>
+  <button igxButton="raised" igxRipple routerLink="/un-block-the-account-of-customer" class="button_1">
+    Sign in
+  </button>
+  <p class="text_2">
+    Password
+  </p>
+  <h5 class="h5">
+    Internet banking Login 
+  </h5>
+</div>

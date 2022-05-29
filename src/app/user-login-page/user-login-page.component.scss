@@ -1,0 +1,90 @@
+:host {
+  height: 100%;
+  display: flex;
+  align-items: stretch;
+}
+.group {
+  align-items: stretch;
+  top: 102.54607508532423px;
+  left: 276.721843003413px;
+  position: fixed;
+  width: 454px;
+  height: 476px;
+  min-width: 50px;
+  min-height: 50px;
+  z-index: 1;
+}
+.text {
+  top: 36px;
+  left: 22px;
+  width: 72px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.text_1 {
+  top: 305.63657209897633px;
+  left: 24.270477815699667px;
+  width: 166px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.text_2 {
+  top: 152.19112627986345px;
+  left: 18.747440273037547px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.h5 {
+  width: 260px;
+  flex-shrink: 0;
+  text-align: center;
+  height: max-content;
+  min-width: min-content;
+}
+.input {
+  top: 67.13653710270906px;
+  left: 28.44253946245735px;
+  min-width: min-content;
+  flex-shrink: 0;
+  position: absolute;
+  height: max-content;
+}
+.input_1 {
+  top: 182.3422568259385px;
+  left: 26.314793088737193px;
+  min-width: min-content;
+  flex-shrink: 0;
+  position: absolute;
+  height: max-content;
+}
+.checkbox {
+  top: 273.4593110068262px;
+  left: 25.515358361774737px;
+  width: max-content;
+  position: absolute;
+  height: max-content;
+}
+.button {
+  top: 403.8112734641641px;
+  left: 129.99232081911262px;
+  width: 159px;
+  min-width: min-content;
+  flex-shrink: 0;
+  position: absolute;
+  height: max-content;
+}
+.button_1 {
+  top: 346.2095776450514px;
+  left: 131.73976109215016px;
+  width: 160px;
+  min-width: min-content;
+  flex-shrink: 0;
+  position: absolute;
+  height: max-content;
+}
+.row-layout {
+  display: flex;
+}

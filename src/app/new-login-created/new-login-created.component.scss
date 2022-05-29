@@ -1,0 +1,54 @@
+:host {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+.h5 {
+  top: 159.0170648464163px;
+  left: 12.221309726962456px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.h5_1 {
+  top: 118.82593856655285px;
+  left: 12px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.text {
+  top: 318.0341296928327px;
+  left: 17.47440273037551px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.text_1 {
+  left: 101.35153583617745px;
+  color: hsla(var(--igx-grays-900));
+  top: 389.6791808873722px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.text_2 {
+  left: 19.221843003412953px;
+  color: hsla(var(--igx-primary-400));
+  top: 389.6791808873722px;
+  position: absolute;
+  height: max-content;
+  min-width: min-content;
+}
+.group {
+  position: relative;
+  height: 478px;
+  min-width: 50px;
+  align-items: stretch;
+  width: 1018px;
+  min-height: 50px;
+}
+.row-layout {
+  display: flex;
+}
